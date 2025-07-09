@@ -1,0 +1,15 @@
+README.md
+setup.py
+stellar_burgers_tests.egg-info/PKG-INFO
+stellar_burgers_tests.egg-info/SOURCES.txt
+stellar_burgers_tests.egg-info/dependency_links.txt
+stellar_burgers_tests.egg-info/top_level.txt
+tests/__init__.py
+tests/test_create_order.py
+tests/test_create_user.py
+tests/test_get_user_orders.py
+tests/test_login_user.py
+tests/test_update_user.py
+utils/__init__.py
+utils/api.py
+utils/helpers.py
